@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.31911.260
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WindowsMediaController", "WindowsMediaController\WindowsMediaController.csproj", "{C719D9AD-7724-47B7-90B7-20EF3C8EB6B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Navicord", "Navicord\Navicord.csproj", "{7A3CB12C-CDF2-4CB3-8E4E-0932A99FC279}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C719D9AD-7724-47B7-90B7-20EF3C8EB6B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C719D9AD-7724-47B7-90B7-20EF3C8EB6B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C719D9AD-7724-47B7-90B7-20EF3C8EB6B5}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{C719D9AD-7724-47B7-90B7-20EF3C8EB6B5}.Debug|x64.Build.0 = Debug|Any CPU
+		{C719D9AD-7724-47B7-90B7-20EF3C8EB6B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C719D9AD-7724-47B7-90B7-20EF3C8EB6B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C719D9AD-7724-47B7-90B7-20EF3C8EB6B5}.Release|x64.ActiveCfg = Release|Any CPU
+		{C719D9AD-7724-47B7-90B7-20EF3C8EB6B5}.Release|x64.Build.0 = Release|Any CPU
+		{7A3CB12C-CDF2-4CB3-8E4E-0932A99FC279}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A3CB12C-CDF2-4CB3-8E4E-0932A99FC279}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A3CB12C-CDF2-4CB3-8E4E-0932A99FC279}.Debug|x64.ActiveCfg = Debug|x64
+		{7A3CB12C-CDF2-4CB3-8E4E-0932A99FC279}.Debug|x64.Build.0 = Debug|x64
+		{7A3CB12C-CDF2-4CB3-8E4E-0932A99FC279}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A3CB12C-CDF2-4CB3-8E4E-0932A99FC279}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A3CB12C-CDF2-4CB3-8E4E-0932A99FC279}.Release|x64.ActiveCfg = Release|x64
+		{7A3CB12C-CDF2-4CB3-8E4E-0932A99FC279}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E38555C-20FC-4070-98E9-CA55DC22B0DA}
+	EndGlobalSection
+EndGlobal
