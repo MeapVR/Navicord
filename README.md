@@ -1,6 +1,6 @@
 # Discord Rich Presence for Navidrome
 
-Navicord is a application that adds the songs you are listening to as your Discord status using rich presence.
+Navicord is an application that adds the songs you are listening to as your Discord status using rich presence.
 It does this by grabbing song information from Windows using [WindowsMediaController](https://github.com/DubyaDude/WindowsMediaController) and [discord-rpc-csharp](https://github.com/Lachee/discord-rpc-csharp), a C# port of DiscordRPC.
 
 ## Features
